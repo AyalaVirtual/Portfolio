@@ -1,0 +1,74 @@
+.navmenu {
+    color: white;
+    background-color: brown;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+    height: 45%;
+  }
+
+.centertext {
+    text-align: center;
+}
+
+.navlinks {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 30px;
+    font-size: 17px;
+}
+
+.navh3 {
+    padding-top: 30px;
+}
+
+.booknow {
+    background-color: #1DA1F2;
+    padding-top: 20px;
+}
+
+.centerbutton {
+    justify-content: center;
+    align-items: center;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    margin: 4px 2px;
+    border-radius: 12px;
+    padding: 10px, 40px;
+    border: none;
+    width: 260px;
+    height: 50;
+    line-height: 0;
+}
+
+.centerbuttonlink {
+    text-align: center;
+}
+
+.services {
+    height: 250px;
+    width: 250px;
+}
+
+.services2 {
+    height: 250px;
+    width: 400px;
+    text-align: justify;
+}
+
+.services3 {
+    height: 250px;
+    width: 300px;
+}
+
+.text-center {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
