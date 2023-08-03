@@ -1,6 +1,5 @@
 .navmenu {
-    color: white;
-    background-color: brown;
+    
 }
 
 .center {
@@ -15,12 +14,20 @@
     text-align: center;
 }
 
+.tagline {
+    font-size: 40px;
+}
+
+.tagline2 {
+    font-size: 30px;
+}
+
 .navlinks {
-    float: left;
-    color: #f2f2f2;
-    text-align: center;
+    display: flex;
+    text-align: right;
+    justify-content: space-between;
     padding: 30px;
-    font-size: 17px;
+    font-size: 20px;
 }
 
 .navh3 {
@@ -70,5 +77,9 @@
 .text-center {
     text-align: justify;
     text-justify: inter-word;
+}
+
+.justify {
+    text-align: justify;
 }
 
