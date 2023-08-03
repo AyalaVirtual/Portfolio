@@ -1,3 +1,8 @@
+body {
+    margin: 50px;
+    padding-top: 30px;
+}
+
 .navlinks {
     display: flex;
     text-align: right;
@@ -15,6 +20,14 @@
 }
 
 button {
-    background-color: cornflowerblue;
-    
+    background-color: #1DA1F2;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    margin: 4px 2px;
+    border-radius: 12px;
+    width: 260px;
+    height: 50;
 }
