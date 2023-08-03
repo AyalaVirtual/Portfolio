@@ -1,0 +1,12 @@
+body {
+    margin: 50px;
+    padding-top: 30px;
+}
+
+.navlinks {
+    display: flex;
+    text-align: right;
+    justify-content: space-between;
+    padding: 30px;
+    font-size: 20px;
+}
